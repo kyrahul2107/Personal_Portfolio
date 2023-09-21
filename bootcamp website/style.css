@@ -4,9 +4,6 @@ body::before {
   height: 60px;
 }
 
-body {
-  font-family: "Open Sans", sans-serif;
-}
 #notify-box {
   display: none;
   margin-top: 100px;
@@ -18,7 +15,6 @@ body {
     width: 50%;
   }
 }
-.navbar-expand-md bg-dark navbar-dark py-3 fixed-top
-{
-  background-color: red;
-}
+
+
+
